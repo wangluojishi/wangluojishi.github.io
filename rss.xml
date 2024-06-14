@@ -23,7 +23,7 @@
         
             <copyright>[随意转载，无需征得同意。](https://github.com/wangluojishi/wangluojishi.blog)</copyright>
         
-        <lastBuildDate>Thu, 13 Jun 2024 09:29:59 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 23:29:22 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://www.wangluojishi.com/rss.xml" />
         
@@ -602,9 +602,9 @@
                 <copyright>[随意转载，无需征得同意。](https://github.com/wangluojishi/wangluojishi.blog)</copyright>
                 
                     <description>&lt;p&gt;网站采用静态，好处是不需要服务器维护费用，只需要有个域名就行了。但是在投稿和评论上门槛稍微高了点。
-博客评论系统采用Giscus，想要评论需要一个github账号。输入邮箱注册，验证邮箱地址即可注册成功。
-一、GitHub的简介
-大概介绍
+博客评论系统采用Giscus，想要评论需要一个github账号。输入邮箱注册，验证邮箱地址即可注册成功。&lt;/p&gt;
+&lt;h2 id=&#34;一github的简介&#34;&gt;一、GitHub的简介&lt;/h2&gt;
+&lt;p&gt;大概介绍
 GitHub是一个面向开源及私有软件项目的托管平台，因为只支持Git作为唯一的版本库格式进行托管，故名GitHub。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.wangluojishi.com/images/%E6%B3%A8%E5%86%8C/1.png&#34; alt=&#34;image&#34;&gt;
 &lt;img src=&#34;https://www.wangluojishi.com/images/%E6%B3%A8%E5%86%8C/2.png&#34; alt=&#34;image&#34;&gt;
@@ -624,6 +624,11 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 评论时需要登录，在这里输入账号密码即可。
 &lt;img src=&#34;https://www.wangluojishi.com/images/%E6%B3%A8%E5%86%8C/1.png&#34; alt=&#34;image&#34;&gt;
 &lt;img src=&#34;https://www.wangluojishi.com/images/%E6%B3%A8%E5%86%8C/11.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;评论如何发布图片&#34;&gt;评论如何发布图片?&lt;/h2&gt;
+&lt;p&gt;先文字评论，然后进入 &lt;a href=&#34;https://github.com/wangluojishi/wangluojishi.Giscus/discussions&#34;&gt;https://github.com/wangluojishi/wangluojishi.Giscus/discussions&lt;/a&gt;找到刚刚评论的链接
+这里可以上传小视频（小于100M）/图片。也可以直接复制粘贴。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.wangluojishi.com/images/%E6%B3%A8%E5%86%8C/12.png&#34; alt=&#34;image&#34;&gt;
+&lt;img src=&#34;https://www.wangluojishi.com/images/%E6%B3%A8%E5%86%8C/13.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 </description>
                 
                 
